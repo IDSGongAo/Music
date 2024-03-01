@@ -1,0 +1,94 @@
+{
+    "plugins": [
+        {
+            "name": "5sing",
+            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/5sing.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "QQ",
+            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/QQ.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "wyy",
+            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/wyy.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "Kugo",
+            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/Kugo.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "Kuwo",
+            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/Kuwo.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "Migu",
+            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/Migu.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "qianqian",
+            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/qianqian.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "歌词网",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciwang/index.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "歌词千寻",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciqianxun/index.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "Audiomack",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/audiomack/index.js",
+            "version": "0.0.2"
+        },
+        {
+            "name": "bilibili",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
+            "version": "0.1.12"
+        },
+        {
+            "name": "猫耳FM",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/maoerfm/index.js",
+            "version": "0.1.4"
+        },
+        {
+            "name": "快手",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kuaishou/index.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "Navidrome",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/navidrome/index.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "喜马拉雅",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/xmly/index.js",
+            "version": "0.1.6"
+        },
+        {
+            "name": "WebDAV",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/webdav/index.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "音悦台",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/yinyuetai/index.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "Youtube",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/youtube/index.js",
+            "version": "0.0.1"
+        }
+    ]
+}
