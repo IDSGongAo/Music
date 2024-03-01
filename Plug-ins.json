@@ -2,37 +2,37 @@
     "plugins": [
         {
             "name": "5sing",
-            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/5sing.js",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Music%20plug-ins/5sing.js",
             "version": "0.0.1"
         },
         {
             "name": "QQ",
-            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/QQ.js",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Music%20plug-ins/QQ.js",
             "version": "0.0.1"
         },
         {
             "name": "wyy",
-            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/wyy.js",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Music%20plug-ins/wyy.js",
             "version": "0.0.1"
         },
         {
             "name": "Kugo",
-            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/Kugo.js",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Music%20plug-ins/Kugo.js",
             "version": "0.0.1"
         },
         {
             "name": "Kuwo",
-            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/Kuwo.js",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Music%20plug-ins/Kuwo.js",
             "version": "0.0.1"
         },
         {
             "name": "Migu",
-            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/Migu.js",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Music%20plug-ins/Migu.js",
             "version": "0.0.1"
         },
         {
             "name": "qianqian",
-            "url": "https://gitlab.com/IDSGongAo/musicfree/-/raw/main/Plug-ins/qianqian.js",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/IDSGongAo/Music/main/Music%20plug-ins/qianqian.js",
             "version": "0.0.1"
         },
         {
