@@ -86,6 +86,16 @@
             "version": "0.0.1"
         },
         {
+            "name": "suno ",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/suno/index.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "udio ",
+            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/udio/index.js",
+            "version": "0.0.1"
+        },
+        {
             "name": "Youtube",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/youtube/index.js",
             "version": "0.0.1"
