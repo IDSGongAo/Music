@@ -1,5 +1,3 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
-
 {
     "spider": "./spider.jar",
     "sites": [
@@ -18,8 +16,8 @@
             "key": "柒之社",
             "name": "柒之社",
             "type": 3,
-            "api": "./api/drpy.min.js",
-            "ext": "./js/NyaFun.js"
+            "api": "https://gh.ddlc.top/https://raw.githubusercontent.com/IDSGongAo/Music-film-and-television-novel-sources/main/template/drpy2.min.js",
+            "ext": "https://gh.ddlc.top/https://raw.githubusercontent.com/IDSGongAo/Music-film-and-television-novel-sources/main/Film/anime/柒之社.js"
         }
     ],
     "parses": [
