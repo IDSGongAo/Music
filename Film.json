@@ -1,67 +1,67 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717572233059/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef",
-  "wallpaper": "https://深色壁纸.饭.eu.org/",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+  "wallpaper": "https://娣辫壊澹佺焊.xxooo.cf/",
   "sites": [
     {
       "key": "Alist",
-      "name": "🌟小雅┃高清",
+      "name": "馃専灏忛泤鈹冮珮娓�",
       "type": 3,
-      "api": "DOCKER_ADDRESS/tvbox/libs/alist.min.js",
+      "api": "http://172.16.128.46:5678/tvbox/libs/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": [
         {
-          "name": "丫仙女",
-          "server": "DOCKER_ADDRESS/",
+          "name": "涓粰濂�",
+          "server": "http://172.16.128.46:5678/",
           "startPage": "/",
           "search": true
         },
         {
-          "name": "每日更新",
-          "server": "DOCKER_ADDRESS/",
-          "startPage": "/每日更新"
+          "name": "姣忔棩鏇存柊",
+          "server": "http://172.16.128.46:5678/",
+          "startPage": "/姣忔棩鏇存柊"
         },
         {
-          "name": "电影",
-          "server": "DOCKER_ADDRESS/",
-          "startPage": "/电影"
+          "name": "鐢靛奖",
+          "server": "http://172.16.128.46:5678/",
+          "startPage": "/鐢靛奖"
         },
         {
-          "name": "电视剧",
-          "server": "DOCKER_ADDRESS/",
-          "startPage": "/电视剧"
+          "name": "鐢佃鍓�",
+          "server": "http://172.16.128.46:5678/",
+          "startPage": "/鐢佃鍓�"
         },
         {
-          "name": "短剧",
-          "server": "DOCKER_ADDRESS/",
-          "startPage": "/每日更新/爽文短剧"
+          "name": "鐭墽",
+          "server": "http://172.16.128.46:5678/",
+          "startPage": "/姣忔棩鏇存柊/鐖芥枃鐭墽"
         },
         {
-          "name": "综艺",
-          "server": "DOCKER_ADDRESS/",
-          "startPage": "/综艺"
+          "name": "缁艰壓",
+          "server": "http://172.16.128.46:5678/",
+          "startPage": "/缁艰壓"
         },
         {
-          "name": "纪录片",
-          "server": "DOCKER_ADDRESS/",
-          "startPage": "/纪录片"
+          "name": "绾綍鐗�",
+          "server": "http://172.16.128.46:5678/",
+          "startPage": "/绾綍鐗�"
         },
         {
-          "name": "动漫",
-          "server": "DOCKER_ADDRESS/",
-          "startPage": "/动漫"
+          "name": "鍔ㄦ极",
+          "server": "http://172.16.128.46:5678/",
+          "startPage": "/鍔ㄦ极"
         },
         {
-          "name": "儿童",
-          "server": "DOCKER_ADDRESS/",
-          "startPage": "/动漫/儿童"
+          "name": "鍎跨",
+          "server": "http://172.16.128.46:5678/",
+          "startPage": "/鍔ㄦ极/鍎跨"
         }
       ]
     },
     {
-      "key": "豆豆",
-      "name": "重要更新！接口的top改com",
+      "key": "璞嗚眴",
+      "name": "鍏ㄦ帴鍙ｆ櫤鑳借繃婊ゅ箍鍛�",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -69,8 +69,8 @@
       "filterable": 0
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "key": "鐜╁伓",
+      "name": "馃懡鐜╁伓鍝ュ摜鈹�4K寮瑰箷",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -81,12 +81,12 @@
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
+        "danMu": "寮�"
       }
     },
     {
       "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
+      "name": "馃殌鍙ㄨ鑽愬奖鈹冩柊鐗�",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -94,8 +94,8 @@
       "changeable": 0
     },
     {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
+      "key": "鐭墽",
+      "name": "馃寛涓婂ご鈹冪煭鍓�",
       "type": 3,
       "api": "csp_Djuu",
       "searchable": 1,
@@ -103,8 +103,8 @@
       "changeable": 1
     },
     {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
+      "key": "閰风湅",
+      "name": "馃挕閰风湅鈹冪鎾�",
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
@@ -113,8 +113,8 @@
       "changeable": 1
     },
     {
-      "key": "原创",
-      "name": "☀原创┃不卡",
+      "key": "鍘熷垱",
+      "name": "鈽€鍘熷垱鈹冧笉鍗�",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -124,8 +124,8 @@
       "changeable": 1
     },
     {
-      "key": "视觉",
-      "name": "👓视觉┃多线",
+      "key": "瑙嗚",
+      "name": "馃憮瑙嗚鈹冨绾�",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
@@ -135,8 +135,8 @@
       "ext": "https://www.80yy3.com/"
     },
     {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
+      "key": "鑻规灉",
+      "name": "馃崕鑻规灉鈹冧笉鍗�",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -144,19 +144,8 @@
       "changeable": 1
     },
     {
-      "key": "糯米",
-      "name": "🍙糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
-    },
-    {
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
+      "key": "鍘傞暱",
+      "name": "馃摂鍘傞暱鈹冧笉鍗�",
       "type": 3,
       "api": "csp_NewCz",
       "timeout": 15,
@@ -167,18 +156,8 @@
       "ext": "https://czzy.top/"
     },
     {
-      "key": "低端",
-      "name": "⏮️低端┃外剧",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "zxzj",
-      "name": "🍊在线┃外剧",
+      "name": "馃崐鍦ㄧ嚎鈹冨鍓�",
       "type": 3,
       "api": "csp_Zxzj",
       "timeout": 15,
@@ -188,8 +167,18 @@
       "ext": "https://www.zxzjhd.com/"
     },
     {
-      "key": "贱贱",
-      "name": "🐭贱贱┃P2P",
+      "key": "浣庣",
+      "name": "鈴笍浣庣鈹冨鍓�",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "璐辫幢",
+      "name": "馃惌璐辫幢鈹働2P",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -199,8 +188,18 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
     {
-      "key": "小点",
-      "name": "💥小点┃多线",
+      "key": "铔嬭泲",
+      "name": "馃崜铔嬭泲鈹冨绾�",
+      "type": 3,
+      "api": "csp_Cddys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "灏忕偣",
+      "name": "馃挜灏忕偣鈹冨绾�",
       "type": 3,
       "api": "csp_Xdys",
       "searchable": 1,
@@ -209,8 +208,8 @@
       "changeable": 0
     },
     {
-      "key": "热播",
-      "name": "📺热播┃多线",
+      "key": "鐑挱",
+      "name": "馃摵鐑挱鈹冨绾�",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -221,8 +220,8 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
-      "key": "萌米",
-      "name": "👀萌米┃多线",
+      "key": "钀岀背",
+      "name": "馃憖钀岀背鈹冨绾�",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -230,28 +229,8 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜┃多线",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "比特",
-      "name": "🍄比特┃秒播",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "可可",
-      "name": "👻可可┃多线",
+      "key": "鍙彲",
+      "name": "馃懟鍙彲鈹冨绾�",
       "type": 3,
       "api": "csp_Kekys",
       "timeout": 15,
@@ -261,8 +240,28 @@
       "changeable": 1
     },
     {
+      "key": "鍗楃摐",
+      "name": "馃巸鍗楃摐鈹冨绾�",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "姣旂壒",
+      "name": "馃崉姣旂壒鈹冪鎾�",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Lib",
-      "name": "🌟立播┃不卡",
+      "name": "馃専绔嬫挱鈹冧笉鍗�",
       "type": 3,
       "api": "csp_Libvio",
       "timeout": 15,
@@ -273,7 +272,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝奥特┃无广",
+      "name": "馃彎濂ョ壒鈹冩棤骞�",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
@@ -283,19 +282,8 @@
       "ext": "https://auete.pro/"
     },
     {
-      "key": "毛驴",
-      "name": "🍓毛驴┃多线",
-      "type": 3,
-      "api": "csp_MLYS",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
+      "key": "鏂�6V",
+      "name": "馃Р鏂�6V鈹冪鍔�",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -305,7 +293,7 @@
     },
     {
       "key": "Dm84",
-      "name": "🚌巴士┃动漫",
+      "name": "馃殞宸村＋鈹冨姩婕�",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -314,7 +302,7 @@
     },
     {
       "key": "Ying",
-      "name": "💮樱花┃动漫",
+      "name": "馃挳妯辫姳鈹冨姩婕�",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -323,7 +311,7 @@
     },
     {
       "key": "Ysj",
-      "name": "🎀异界┃动漫",
+      "name": "馃巰寮傜晫鈹冨姩婕�",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -332,7 +320,7 @@
     },
     {
       "key": "Anime1",
-      "name": "🐾日本┃动漫",
+      "name": "馃惥鏃ユ湰鈹冨姩婕�",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -341,10 +329,10 @@
     },
     {
       "key": "88js",
-      "name": "⚽ 88┃看球",
+      "name": "鈿� 88鈹冪湅鐞�",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88鐪嬬悆.js",
       "style": {
         "type": "list"
       },
@@ -354,7 +342,7 @@
     },
     {
       "key": "Jrsjs",
-      "name": "⚽ Jrs┃球迷",
+      "name": "鈿� Jrs鈹冪悆杩�",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
@@ -366,8 +354,8 @@
       "changeable": 0
     },
     {
-      "key": "企鹅体育xp",
-      "name": "🐧鹅鹅┃体育",
+      "key": "浼侀箙xp",
+      "name": "馃惂楣呴箙鈹冧綋鑲�",
       "type": 3,
       "api": "csp_XPath",
       "style": {
@@ -376,14 +364,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/浼侀箙鐩存挱.json"
     },
     {
-      "key": "酷奇",
-      "name": "🎤酷奇┃MV",
+      "key": "閰峰",
+      "name": "馃帳閰峰鈹僊V",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/閰峰MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -394,7 +382,7 @@
     },
     {
       "key": "MTV",
-      "name": "🎧明星┃MV",
+      "name": "馃帶鏄庢槦鈹僊V",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -408,7 +396,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "📽️网红┃直播",
+      "name": "馃摻锔忕綉绾⑩攦鐩存挱",
       "type": 3,
       "api": "csp_Yj1211",
       "playerType": "1",
@@ -417,8 +405,8 @@
       "changeable": 0
     },
     {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
+      "key": "铏庣墮鐩存挱js",
+      "name": "馃惎铏庣墮鈹冪洿鎾�",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
@@ -432,11 +420,11 @@
       "changeable": 0
     },
     {
-      "key": "斗鱼js",
-      "name": "🐟斗鱼┃直播",
+      "key": "鏂楅奔js",
+      "name": "馃悷鏂楅奔鈹冪洿鎾�",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/鏂楅奔鐩存挱.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -447,21 +435,21 @@
       "changeable": 0
     },
     {
-      "key": "聚短视频js",
-      "name": "📽️聚短┃视频",
+      "key": "鑱氱煭瑙嗛js",
+      "name": "馃摻锔忚仛鐭攦瑙嗛",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/鐭棰�.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
     {
-      "key": "有声小说js",
-      "name": "🎧有声┃小说",
+      "key": "鏈夊０灏忚js",
+      "name": "馃帶鏈夊０鈹冨皬璇�",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/鏈夊０灏忚鍚�.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -472,7 +460,7 @@
     },
     {
       "key": "Aid",
-      "name": "🚑急救┃教学",
+      "name": "馃殤鎬ユ晳鈹冩暀瀛�",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -484,8 +472,8 @@
       }
     },
     {
-      "key": "米搜",
-      "name": "🦋米搜┃搜索",
+      "key": "绫虫悳",
+      "name": "馃绫虫悳鈹冩悳绱�",
       "type": 3,
       "api": "csp_MIPanSo",
       "searchable": 1,
@@ -498,8 +486,8 @@
       }
     },
     {
-      "key": "夸搜",
-      "name": "🐌夸搜┃搜索",
+      "key": "澶告悳",
+      "name": "馃悓澶告悳鈹冩悳绱�",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -513,7 +501,7 @@
     },
     {
       "key": "YiSo",
-      "name": "😹易搜┃搜索",
+      "name": "馃樄鏄撴悳鈹冩悳绱�",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -526,7 +514,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
+      "name": "馃鐩樻悳鈹冩悳绱�",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -538,8 +526,21 @@
       }
     },
     {
+      "key": "UpYun",
+      "name": "馃樆Up鎼溾攦鎼滅储",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
       "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
+      "name": "馃檧鐩楽e鈹冩悳绱�",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -552,7 +553,7 @@
     },
     {
       "key": "push_agent",
-      "name": "🛴手机┃推送",
+      "name": "馃洿鎵嬫満鈹冩帹閫�",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -565,7 +566,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱哔哔┃合集",
+      "name": "馃叡鍝斿摂鈹冨悎闆�",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -579,7 +580,7 @@
     },
     {
       "key": "Biliych",
-      "name": "🅱明星┃演唱会",
+      "name": "馃叡鏄庢槦鈹冩紨鍞变細",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -592,8 +593,8 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
     },
     {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "key": "dr_鍏斿皬璐�",
+      "name": "馃摎鍎跨鈹冨惎钂�",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -606,8 +607,8 @@
       "changeable": 0
     },
     {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
+      "key": "灏戝効鏁欒偛",
+      "name": "馃摎灏戝効鈹冩暀鑲�",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -617,11 +618,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/灏戝効鏁欒偛.json"
     },
     {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
+      "key": "灏忓璇惧爞",
+      "name": "馃摎灏忓鈹冭鍫�",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -631,11 +632,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/灏忓璇惧爞.json"
     },
     {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
+      "key": "鍒濅腑璇惧爞",
+      "name": "馃摎鍒濅腑鈹冭鍫�",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -645,11 +646,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/鍒濅腑璇惧爞.json"
     },
     {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
+      "key": "楂樹腑鏁欒偛",
+      "name": "馃摎楂樹腑鈹冭鍫�",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -659,7 +660,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/楂樹腑璇惧爞.json"
     }
   ],
   "doh": [
@@ -709,9 +710,9 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "我的私用",
+      "name": "鎴戠殑绉佺敤",
       "type": 0,
-      "url": "DOCKER_ADDRESS/tvbox/iptv.m3u",
+      "url": "http://172.16.128.46:5678/tvbox/iptv.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -736,173 +737,4 @@
       "playerType": 1
     }
   ]
-}
-"parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
-            "name": "1-看看",
-            "type": 0,
-            "url": "https://jx.m3u8.pw/?url="
-        },
-        {
-            "name": "2-虾米",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "3-麒麟",
-            "type": 0,
-            "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
-        },
-        {
-            "name": "4-parwix1",
-            "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "5-OK解析",
-            "type": 0,
-            "url": "http://okjx.cc/?url=",
-            "parse": "1",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "6-yparse",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url="
-        },
-        {
-            "name": "7-jsonplayer",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "8-aidou",
-            "type": 0,
-            "url": "https://jx.aidouer.net/?url="
-        },
-        {
-            "name": "星辰云解析",
-            "type": 1,
-            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "刚刚走过",
-            "type": 1,
-            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "tg255免费",
-            "type": 1,
-            "url": "https://jx.255jx.tk/api/?key=YYac1YA1lkwwf3an4G&url="
-        },
-        {
-            "name": "风起兖州",
-            "type": 0,
-            "url": "http://jx.gbxy.net.cn/?url="
-        },
-        {
-            "name": "江湖1080",
-            "type": 1,
-            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-        },
-        {
-            "name": "keyu",
-            "type": 1,
-            "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "荣兴",
-            "type": 1,
-            "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
-        },
-        {
-            "name": "m3u8(720)",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        }
-    ],
-    "flags": [
-        "youku",
-        "qq",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "tudou",
-        "pptv",
-        "mgtv",
-        "wasu"
-    ]
 }
